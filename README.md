@@ -159,7 +159,6 @@ This project was a group collaboration. Each team member focused on specific ana
 
 - [**Nadya Tseitlina**](https://github.com/NadyaT-hub) —  
   - Q5: Are there any notable behavioral differences between heterosexual and bisexual women?
-  - Q5.2: Are there notable differences in the users' behavior towards these two groups, specifically amount of "tokens" received by heterosexual     
-          and bisexual women, such as "gifts" and "kisses"?
+  - Q5.2: Are there notable differences in the users' behavior towards these two groups, specifically amount of "tokens" received by heterosexual and bisexual women, such as "gifts" and "kisses"?
 
 Special thanks to our instructors and The Knowledge House for guidance and feedback throughout the project.
